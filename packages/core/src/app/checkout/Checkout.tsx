@@ -327,15 +327,15 @@ class Checkout extends Component<
         // EJEMPLO DE BANNER DE PRUEBA VISUAL
          const pruebaBanner = (
             <div style={{
-                background: '#8cff82ff',
-                padding: '20px',
-                fontWeight: 'bold',
+                background: '#00b140',
+                padding: '5px',
+                fontFamily: 'Lato',
                 fontSize: '18px',
-                color: '#333',
+                color: '#fff',
                 textAlign: 'center',
                 marginBottom: '20px'
             }}>
-                CHECKOUT DE PRUEBA 2
+                ¡<strong>ENVÍO GRATIS</strong> en tus compras mayores a $1,750.00! 
             </div>
         );
 
