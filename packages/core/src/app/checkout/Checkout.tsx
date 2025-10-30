@@ -336,8 +336,7 @@ class Checkout extends Component<
                 marginBottom: '20px',
                 fontStyle: 'italic'
             }}>
-                ¡<strong>ENVÍO GRATIS</strong> a partir de $1,750.00 MXN! 
-                <img style={{height: '30px', width: '50px'}} src="https://cdn.teisaintegral.mx/site/banner-free-shipping.png"></img>
+                ¡<strong>ENVÍO GRATIS</strong> a partir de <strong>$1,750.00 MXN</strong>! <img style={{height: '30px', width: '50px'}} src="https://cdn.teisaintegral.mx/site/banner-free-shipping.png"></img>
             </div>
         );
 
