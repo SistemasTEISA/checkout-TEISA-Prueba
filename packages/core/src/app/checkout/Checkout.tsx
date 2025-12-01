@@ -327,16 +327,17 @@ class Checkout extends Component<
         // EJEMPLO DE BANNER DE PRUEBA VISUAL
          const pruebaBanner = (
             <div style={{
-                background: '#00b140',
-                padding: '5px',
-                fontFamily: 'Helvetica',
-                fontSize: '16px',
-                color: '#fff',
-                textAlign: 'center',
+                background: '#001489',
+                height: '2px',
+                // padding: '5px',
+                // fontFamily: 'Helvetica',
+                // fontSize: '16px',
+                // color: '#fff',
+                // textAlign: 'center',
                 marginBottom: '20px',
-                fontStyle: 'italic'
+                //fontStyle: 'italic'
             }}>
-                ¡<strong>ENVÍO GRATIS</strong> a partir de <strong>$1,750.00 MXN</strong>! <img style={{height: '30px', width: '50px'}} src="https://cdn.teisaintegral.mx/site/banner-free-shipping.png"></img>
+                {/* ¡<strong>ENVÍO GRATIS</strong> a partir de <strong>$1,750.00 MXN</strong>! <img style={{height: '30px', width: '50px'}} src="https://cdn.teisaintegral.mx/site/banner-free-shipping.png"></img> */}
             </div>
         );
 
